@@ -6,10 +6,9 @@ int main(void)
 {
 	int tate, yoko, men;
 	tate = 15;
-	yoko = 20; 
+	yoko = 20;
 	men = tate * yoko;
 	printf("長方形の面積は%dです。\n", men);
 	printf("%d%d%d", tate, yoko, men);
-	return 0; 
-
+	return 0;
 }
